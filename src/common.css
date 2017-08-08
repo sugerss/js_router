@@ -1,0 +1,20 @@
+@charset "utf-8";
+html,body{font-family:helvetica,"Microsoft Yahei",arial,sans-serif;-webkit-text-size-adjust:none;word-break:break-all;}
+html, body, div, span,iframe, h1, h2, h3, h4, h5, h6, p, a, img, q, dd, dl, dt, li, ol, ul, form, label,input,section{
+ margin: 0; padding: 0; border: 0;-webkit-box-sizing: border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+table{border-collapse:collapse;border-spacing:0;}
+img{max-width:100%; vertical-align: middle;-ms-interpolation-mode: bicubic;}
+ol,ul{list-style:none;}
+q:before,q:after{content:'';}
+input[type="checkbox"]{-webkit-appearance:checkbox;vertical-align: middle;display:inline-block;}
+input[type="radio"]{-webkit-appearance:radio;vertical-align: middle;display:inline-block;}
+a{ text-decoration: none;}
+button{outline: none;border:none;}
+.clear:after{ content: ''; display: block; clear: both;}
+.hidden{display: none; }
+.width{width: 100%;}
+.left{float:left;}
+.right{float:right;}
+.textCenter{text-align: center;}
+.fRelative{position:relative;}
+.fAbsolute{position:absolute;left:0;right:0;margin:0 auto;}
